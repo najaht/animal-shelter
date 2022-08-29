@@ -38,7 +38,7 @@
   padding-left: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
-  font-size: 20px;
+  font-size: 22px;
   
 }
 button a{
@@ -543,4 +543,77 @@ a:hover{
   margin-left: 320px;
   margin-top: -65px;
   text-decoration: none;
+}
+#col{
+  background-color:#363636;
+  height: 499px;
+}
+.col-6{
+  margin-top: 60px;
+  height: 100px;
+  
+  
+}
+#strut{
+  width: 758px;
+
+}
+#home{
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 50px;
+  font-size: 50px;
+}
+#acedu{
+  position: absolute;
+  margin-top: 300px;
+
+}
+#d{
+  margin-top: 270px;
+  margin-left: 50px;
+  background-color: chocolate;
+  border-style: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 19px;
+  padding-left: 19px;
+  font-size: 23px;
+}
+#act{
+  margin-top: 50px;
+  margin-left: 200px;
+  font-size: 90px;
+}
+#history{
+  color: #7a7a7a;
+  margin-left: 200px;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 39px;
+}
+#f1{
+  margin-left: 200px;
+  height: 600px;
+}
+.community{
+  background-color: white;
+  height: 200px;
+  width: 37%;
+  margin-left: 220px;
+  position: absolute;
+  margin-top: -25px;
+}
+#is{
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 22px;
+}
+#local{
+  margin-left: 20px;
+  color: #2c2c2c;
+  font-size: 17px;
+  line-height: 21px;
 }

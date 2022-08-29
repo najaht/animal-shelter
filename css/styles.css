@@ -492,7 +492,7 @@ a:hover{
   margin-top: -40px;
   margin-left: 18px;
 }
-#corner{
+.corner{
   position: absolute;
   margin-left: 320px;
   color:  #2c2c2c;
@@ -500,7 +500,7 @@ a:hover{
   text-decoration: none;
   
 }
-#toon{
+.toon{
   position: absolute;
  margin-left: 930px;
  height: 100px;
@@ -518,7 +518,29 @@ a:hover{
 #together{
   position: absolute;
   margin-top: -80px;
-  margin-left: 20px;
+  margin-left: 60px;
   text-decoration: none;
   color: black;
+}
+#lid{
+  border-bottom: solid;
+  border-width: 1px;
+  margin-top: 70px;
+  width: 77%;
+  margin-left: 190px;
+}
+#impact{
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  margin-top: -40px;
+  margin-left: 20px;
+
+}
+#rate{
+  position: absolute;
+  color: #2c2c2c;
+  margin-left: 320px;
+  margin-top: -65px;
+  text-decoration: none;
 }

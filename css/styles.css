@@ -613,7 +613,145 @@ a:hover{
 }
 #local{
   margin-left: 20px;
-  color: #2c2c2c;
+  color: c;
   font-size: 17px;
   line-height: 21px;
+}
+#cos{
+  display: flex;
+}
+#f2{
+  margin-left: 850px;
+ height: 300px;
+ position: absolute; 
+ margin-top: -600px;
+}
+#join{
+  background-color: white;
+  height: 200px;
+  width: 16%;
+  margin-left: 875px;
+  position: absolute;
+  margin-top: -320px;
+}
+#action{
+  margin-left: 10px;
+}
+.change{
+  margin-left: 10px;
+  font-size: 17px;
+  color: #2c2c2c;
+  line-height: 21px;
+}
+#f3{
+  height: 300px;
+  margin-left: 1170px;
+  margin-top: -930px;
+}
+#vibes{
+  background-color:white;
+  height: 200px;
+  width: 16%;
+  position: absolute;
+  margin-left: 1200px;
+  margin-top: -345px;
+  
+  
+}
+.vol{
+  margin-left: 10px;
+}
+#fos{
+  display: flex;
+}
+#f4{
+  height: 300px;
+  margin-left: 850px;
+  margin-top: -130px;
+}
+#web{
+  background-color: white;
+  height: 200px;
+  width: 16%;
+  margin-left: -280px;
+  margin-top: 140px;
+}
+#foster{
+  margin-left: 10px;
+}
+#f5{
+ height: 300px;
+ margin-left: 60px;
+ margin-top: -130px;
+}
+#forever{
+  background-color: white;
+  position: absolute;
+  height: 200px;
+  width: 16%;
+  margin-left: 87px;
+  margin-top: -27px;
+  
+}
+#mutu{
+  color: #7a7a7a;
+  font-size: 120px;
+  margin-left: 200px;
+  margin-top: -50px;
+  line-height: 90px;
+  font-weight: 700;
+}
+
+
+#gg{
+  height: 380px;
+  margin-left: -500px;
+  margin-top: -70px;
+  
+  
+}
+
+.dog-pictures img {
+ width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.col-md-3 {
+  padding: 0px 0px;
+}
+#background{
+  background-color: #363636;
+}
+
+#g img{
+  height: 50vh;
+}
+
+#g h4 {
+  height: 70%;
+  color: white;
+  font-size: 33px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+#month{
+  border-style: none;
+  background-color: chocolate;
+  position: absolute;
+  margin-top: px;
+  margin-left: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 23px;
+}
+#opie{
+  margin-top: -26px;
+  margin-left: 15px;
+  color: black;
+}
+#col-4{
+  height: 400px;
 }

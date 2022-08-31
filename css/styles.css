@@ -695,63 +695,134 @@ a:hover{
 }
 #mutu{
   color: #7a7a7a;
-  font-size: 120px;
+  font-size: 130px;
   margin-left: 200px;
   margin-top: -50px;
-  line-height: 90px;
+  line-height: 97px;
   font-weight: 700;
 }
 
 
-#gg{
-  height: 380px;
-  margin-left: -500px;
-  margin-top: -70px;
-  
-  
+
+.g1{
+  display: flex;
+  width: 100%;
+}
+.image{
+  width: 390px;
+  height: 320px;
 }
 
-.dog-pictures img {
- width: 100%;
-  padding: 0;
-  margin: 0;
-}
 
-.col-md-3 {
-  padding: 0px 0px;
-}
-#background{
+
+#g2{
   background-color: #363636;
+  width: 30%;
+  height: 320px;
+ 
+ 
 }
-
-#g img{
-  height: 50vh;
-}
-
-#g h4 {
-  height: 70%;
+.opie{
+  position: absolute;
   color: white;
-  font-size: 33px;
-  margin-left: 40px;
-  margin-top: 20px;
+  margin-top: -35px;
+  font-size: 20px;
 }
-#month{
+.round{
+  color: white;
+  font-size: 27px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+#monse{
+  margin-left: 20px;
   border-style: none;
   background-color: chocolate;
-  position: absolute;
-  margin-top: px;
-  margin-left: 40px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 17px;
+  padding-left: 17px;
   padding-top: 7px;
   padding-bottom: 7px;
-  font-size: 23px;
+  font-size: 21px;
 }
-#opie{
-  margin-top: -26px;
-  margin-left: 15px;
-  color: black;
+.brands{
+  display: flex;
+  margin-top: -20px;
 }
-#col-4{
-  height: 400px;
+.holy{
+  background-color: #ec720b;
+  width: 23%;
+  height: 320px;
+}
+.loving{
+  color: white;
+  font-size: 27px;
+  margin-left: 20px;
+  margin-top: 30px;
+  font-weight: 600;
+}
+.spo{
+  margin-left: 20px;
+  border-style: none;
+  padding-right: 18px;
+  padding-left: 18px;
+  font-size: 25px;
+  background-color: #363636;
+}
+.thanks{
+  margin-top: 30px;
+  font-weight: 600;
+  margin-left: 450px;
+  font-size: 30px;
+}
+#logo{
+  margin-top: 50px;
+  margin-left: 300px;
+  
+}
+.webp{
+  margin-left: 80px;
+  height: 70px;
+}
+#ec{
+  background-color: #ec720b;
+  height: 200px;
+  width: 100%;
+  margin-top: 120px;
+}
+#s0{
+  color: white;
+  margin-left: 600px;
+  position: absolute;
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 43px;
+}
+#email{
+  color: #2c2c2c;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 700px;
+  font-weight: 400;
+}
+#address{
+  position: absolute;
+  margin-top: 110px;
+  margin-left: 600px;
+  padding-right: 70px;
+}
+#sub{
+  position: absolute;
+  border-style: none;
+  margin-top: 110px;
+  margin-left: 860px;
+  background-color: #3d3d3e;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 16px;
+
+}
+#last-part{
+  
 }

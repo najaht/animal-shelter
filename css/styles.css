@@ -827,7 +827,7 @@ a:hover{
 }
 #last-part{
   background-color: #3d3d3e;
-  height: 800px;
+  height: 1500px;
   width: 100%;
   margin-top: 2px;
 }
@@ -852,7 +852,7 @@ a:hover{
 .logoo{
   height: 120px;
   position: absolute;
-  margin-left: 660px;
+  margin-left: 640px;
   margin-top: 40px;
 }
 #by{
@@ -863,4 +863,89 @@ a:hover{
 #c{
   color: white;
   margin-left: 480px;
+}
+#reg{
+  margin-left: 250px;
+  
+  margin-top: -920px;
+  color: white;
+}
+.list{
+  margin-left: 220px;
+  list-style: none;
+  line-height: 30px;
+  margin-top: -15px;
+}
+.listt{
+  color: #ec720b;
+}
+#site{
+  color: white;
+  margin-left: 520px;
+  margin-top: -220px;
+}
+.list1{
+  list-style: none;
+  margin-left: 490px;
+  line-height: 30px;
+  margin-top: -10px;
+}
+#pro{
+  color: white;
+  margin-left: 800px;
+  margin-top: -166px;
+}
+.list2{
+  list-style: none;
+  line-height: 30px;
+  margin-left: 767px;
+  margin-top: -10px;
+}
+#app{
+  color: white;
+  margin-left: 1090px;
+  margin-top: -106px;
+}
+#res{
+  margin-left:1070px ;
+  height: 50px;
+}
+#seen{
+  margin-top: 170px;
+  color: white;
+  margin-left: 400px;
+
+}
+#film{
+  margin-top: -20px;
+  margin-left: 640px;
+  color: white;
+}
+#certified{
+  height: 100px;
+  margin-left: 480px;
+  margin-top: 30px;
+}
+#profit{
+  color: white;
+  margin-left: 380px;
+  margin-top: 25px;
+  line-height: 17px;
+}
+#most{
+  margin-left: 690px;
+  height: 120px;
+  margin-top: 20px;
+}
+#policies{
+  color: white;
+  margin-left: 540px;
+  margin-top: 30px;
+}
+.nav-item :hover{
+  color: chocolate;
+}
+#right{
+  color: white;
+  margin-left: 570px;
 }
